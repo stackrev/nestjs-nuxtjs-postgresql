@@ -1,0 +1,86 @@
+::-webkit-scrollbar {
+  width: 5px;
+  background: #424242;
+}
+
+::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px #424242;
+}
+
+::-webkit-scrollbar-thumb {
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.5);
+  background: #212121;
+}
+
+* {
+  font-family: IRANSans-web !important;
+  font-weight: normal;
+  line-height: 24px;
+}
+
+span {
+  font-family: IRANSans-web !important;
+  font-weight: normal;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+.v-application,
+.title {
+  font-family: IRANSans-web !important;
+  font-weight: normal !important;
+}
+
+.toasted-container .toasted {
+  text-align: center !important;
+}
+
+textarea {
+  line-height: 24px !important;
+}
+
+.v-select__selections {
+  min-height: 57px !important;
+}
+
+.destroy-text {
+  text-align: center;
+  padding-top: 12px !important;
+  font-size: 1.2rem !important;
+  line-height: 30px !important;
+}
+.destroy-btn {
+  width: 100%;
+  text-align: center;
+}
+.destroy-yes {
+  font-size: initial;
+  font-weight: 600 !important;
+}
+
+.datatable-title {
+  font-family: IRANSans-web !important;
+  font-size: 1.1rem !important;
+  font-weight: 500;
+  line-height: 2rem;
+  letter-spacing: 0.0125em !important;
+}
+
+.mdl-title {
+  font-family: IRANSans-web !important;
+  font-size: 1.3rem !important;
+  font-weight: 500;
+  line-height: 2rem;
+  letter-spacing: 0.0125em !important;
+}
+
+.v-btn__content {
+  font-size: 14px !important;
+  font-weight: 600 !important;
+}
+
+.toasted {
+  direction: rtl !important;
+}

@@ -1,2 +1,3 @@
-# nestjs-nuxtjs-postgresql-starter
+# Nestjs Nuxtjs Postgresql Starter
+
 Nestjs Nuxtjs PostgreSql Starter
